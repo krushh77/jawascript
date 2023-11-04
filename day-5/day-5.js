@@ -1,28 +1,28 @@
-// for (var i =10; i>0; i-- ){
-//     console.log(i)
-// }
+for (var i =10; i>0; i-- ){
+    console.log(i)
+}
 
-// for ( i = 750; i >= 350; i -= 5){
-//     console.log(i)
-// }
+for ( i = 750; i >= 350; i -= 5){
+    console.log(i)
+}
 
-// for (var i = 50; i >= 10; i-=2){
-//     console.log(i)
-// }
+for (var i = 50; i >= 10; i-=2){
+    console.log(i)
+}
 
-// for (var i = 10; i > 0; i--){
-//     console.log(i)
-// }
+for (var i = 10; i > 0; i--){
+    console.log(i)
+}
 
-// for (var i = 30; i > 0; i--){
-//     console.log(i)
-// }
+for (var i = 30; i > 0; i--){
+    console.log(i)
+}
 
-// var students =["rohit" , "virat" , "rahul" , "surya"];
+var students =["rohit" , "virat" , "rahul" , "surya"];
 
-// for (var i = 0; i< students.length; i++){
-//     console.log(students[i],i)
-// }
+for (var i = 0; i< students.length; i++){
+    console.log(students[i],i)
+}
 
 
 var numbers = [10,20,30,40,50,60]
